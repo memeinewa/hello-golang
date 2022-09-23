@@ -12,3 +12,8 @@
 
 ### Run Test
 > go test
+
+<br>
+
+### Run
+> go run hello.go
