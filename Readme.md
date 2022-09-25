@@ -1,6 +1,9 @@
-# Golang Integer
+# Golang Iteration
 
-## Example with Adder Test
+## Example Iteration
 
-### Run
+### Run Test
 > go test -v
+
+### Run Benchmark
+> go test -bench=.
