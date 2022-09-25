@@ -1,8 +1,6 @@
-## Hello Golang With Test and Fix it 
+# Golang Integer
 
-### Let fix function
+## Example with Adder Test
 
-<br>
-
-### Run Test
-> go test
+### Run
+> go test -v
