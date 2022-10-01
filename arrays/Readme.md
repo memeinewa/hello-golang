@@ -1,6 +1,6 @@
 # Hello Golang
 
-## Example Integers
+## Example Arrays
 
 ### Run Test
 > go test -v
